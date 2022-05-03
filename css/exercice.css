@@ -41,19 +41,19 @@
   right: 50%;
 }
 
-.container{
-  position: relative;
-}
-
 /* 6. FIGURE / FIGCAPTION */
 
 .exercice-figure figcaption {
   position: absolute;
+  font-size: 12px;
   bottom: 0;
   left: 0;
-  background: #ffffffdd
+  background: #ffffffcc;
+  padding: 10px;
 }
 
-.figure .container {
+.exercice-figure figure {
   position: relative;
+  margin: 20px;
+  font-size: 0px;
 }
