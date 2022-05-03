@@ -30,7 +30,7 @@
 
 .exercice-absolute-2 .block-red {
   position: absolute;
-  left: 170px;
+  right: 50%;
   top: 0;
 }
 
