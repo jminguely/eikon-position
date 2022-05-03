@@ -1,11 +1,75 @@
 /* 1. Position STATIC */
+.containe {
+  background: pink;
+}
+
+.block {
+  position: static;
+}
 
 /* 2. Position RELATIVE */
+.container {
+  background: pink;
+}
+
+.exercice-relative .block-blue {
+  position: relative;
+  left: 15px;
+  right: 0px;
+}
 
 /* 3. Position RELATIVE II */
+.container {
+  background: pink;
+}
 
+.exercice-relative-2 .block-blue {
+  position: relative;
+  bottom: 20px;
+  left: -30px;
+  right: 20px;
+}
 /* 4. Position ABSOLUTE */
+.container {
+  background: pink;
+  position: relative;
+}
 
+.exercice-absolute .block-blue {
+  position: absolute;
+  left: 392px;
+  top: 153px;
+}
 /* 5. Position ABSOLUTE II */
+.container {
+  background: pink;
+  position: relative;
+}
+
+.exercice-absolute-2 .block-green {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.exercice-absolute-2 .block-red {
+  position: absolute;
+  left: 171px;
+  bottom: 153px;
+}
+
+.exercice-absolute-2 .block-blue {
+  position: absolute;
+  left: 392px;
+  bottom: 153px;
+}
 
 /* 6. FIGURE / FIGCAPTION */
+.figure {
+  position: relative;
+}
+
+.figure figcaption{
+  position: absolute;
+  background:#ffffffdd;
+}
