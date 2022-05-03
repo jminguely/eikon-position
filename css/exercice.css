@@ -44,3 +44,14 @@
 }
 
 /* 6. FIGURE / FIGCAPTION */
+.exercice-figure .container {
+  position: relative;
+}
+
+.exercice-figure figcaption {
+  background-color: #ffffff88;
+  position: absolute;
+  bottom: 9%;
+  font-size: x-small;
+  padding: 5px;
+}
