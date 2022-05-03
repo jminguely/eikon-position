@@ -46,3 +46,12 @@
   right: 50%;
 }
 /* 6. FIGURE / FIGCAPTION */
+figure{
+  position: relative;
+}
+figure figcaption{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #ffffff91;
+}
