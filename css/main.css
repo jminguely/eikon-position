@@ -75,7 +75,7 @@ section:last-child {
   height: 50px;
 }
 
-.block-red {
+.block-black {
   background: var(--black);
 }
 
@@ -83,7 +83,7 @@ section:last-child {
   background: var(--blue);
 }
 
-.block-green {
+.block-red {
   background: var(--red);
 }
 
