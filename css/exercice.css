@@ -51,7 +51,7 @@
 .exercice-absolute-2 .block-red {
   position: absolute;
   top: 0;
-  left: 170px;
+  right: 50%;
 }
 /* 6. FIGURE / FIGCAPTION */
 
