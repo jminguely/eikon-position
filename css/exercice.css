@@ -9,14 +9,22 @@
   left: 20px;
 }
 
-
 /* 3. Position RELATIVE II */
 
+.exercice-relative-2 .container .block-blue {
+  position: relative;
+  top: -20px;
+  right: 20px;
+}
 /* 4. Position ABSOLUTE */
+.exercice-absolute .container {
+  position: relative;
+}
 
-.element-blue .exercice-position-absolute {
+.exercice-absolute .container .block-blue{
   position: absolute;
-  bottom: -20px;
+  bottom: 0;
+  right: 0;
 }
 
 
