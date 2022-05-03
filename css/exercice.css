@@ -1,5 +1,7 @@
 /* 1. Position STATIC */
-
+.block {
+  position: static;
+}
 /* 2. Position RELATIVE */
 
 /* 3. Position RELATIVE II */
