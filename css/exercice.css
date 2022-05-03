@@ -40,7 +40,14 @@
   position: absolute;
   right: 0%;
   top:0%;
- 
-
 }
 /* 6. FIGURE / FIGCAPTION */
+
+figure {
+  position:relative;
+}
+figure figcaption {
+  position:absolute;
+  bottom:0;
+  left:0;
+  background:hsla(0, 0%, 100%, 0.475);}
