@@ -1,4 +1,7 @@
 /* 1. Position STATIC */
+.exercice-static {
+  position: static;
+}
 
 /* 2. Position RELATIVE */
 
