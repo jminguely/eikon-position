@@ -27,5 +27,20 @@
   top: 75%;
 }
 /* 5. Position ABSOLUTE II */
+.exercice-absolute-2 .container {
+  position: relative;
+}
+
+.exercice-absolute-2 .block-blue {
+  position: absolute;
+  left: 87%;
+  bottom: 75%;
+}
+
+.exercice-absolute-2 .block-red{
+  position: absolute;
+  left: 37%;
+  bottom: 75%;
+}
 
 /* 6. FIGURE / FIGCAPTION */
