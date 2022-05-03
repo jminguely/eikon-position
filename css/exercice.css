@@ -40,4 +40,13 @@
   top: 0;
 }
 
-/* 6. FIGURE / FIGCAPTION */
+figure {
+  position: relative;
+}
+
+figure figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #ffffffdd;
+}
