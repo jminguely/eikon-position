@@ -49,8 +49,23 @@
 }
 
 .exercice-absolute-2 .block-red {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 170px;
 }
 /* 6. FIGURE / FIGCAPTION */
+
+.exercice-figure .container {
+  position: relative;
+}
+
+.exercice-figure figcaption {
+  position: absolute;
+  bottom: 20px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.54);
+  font-size: small;
+}
+
+
+
