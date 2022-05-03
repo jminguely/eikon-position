@@ -2,7 +2,11 @@
   position: static;
 }
 
-/* 2. Position RELATIVE */
+.exercice-relative .block-blue {
+  position: relative;
+  left: 20px;
+  bottom: 0;
+}
 
 /* 3. Position RELATIVE II */
 
