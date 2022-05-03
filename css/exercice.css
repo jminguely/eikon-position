@@ -13,6 +13,14 @@
 }
 
 /* 4. Position ABSOLUTE */
+.exercice-absolute{
+  position: relative;
+}
+.exercice-absolute .block-blue{
+  position: absolute;
+  bottom: 0px;
+  left: 250px;
+}
 
 /* 5. Position ABSOLUTE II */
 
