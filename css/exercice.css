@@ -29,16 +29,16 @@
   right: 0px;
 }
 
+.exercice-absolute-2 .block-green {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
 .exercice-absolute-2 .block-red {
   position: absolute;
   top: 0px;
-  left: 120px;
-}
-
-.exercice-absolute-2 .block-black {
-  position: absolute;
-  top: 0px;
-  right: 0px;
+  right: 50%;
 }
 
 .container{
@@ -46,7 +46,14 @@
 }
 
 /* 6. FIGURE / FIGCAPTION */
-.exercice-figure .thumbnail {
+
+.exercice-figure figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #ffffffdd
+}
+
+.figure .container {
   position: relative;
-  
 }
