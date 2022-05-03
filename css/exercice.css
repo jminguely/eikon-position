@@ -1,10 +1,24 @@
 /* 1. Position STATIC */
 
+.exercice-static .container{
+  position: static;
+}
 /* 2. Position RELATIVE */
+.exercice-relative .container .block-blue{
+  position: relative;
+  left: 20px;
+}
+
 
 /* 3. Position RELATIVE II */
 
 /* 4. Position ABSOLUTE */
+
+.element-blue .exercice-position-absolute {
+  position: absolute;
+  bottom: -20px;
+}
+
 
 /* 5. Position ABSOLUTE II */
 
