@@ -103,6 +103,10 @@ section:last-child {
   background-repeat: repeat;
 }
 
+.exercice .container img {
+  display: block;
+}
+
 .exercice .thumbnail {
   width: 50%;
   background: var(--white);
