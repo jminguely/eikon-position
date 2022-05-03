@@ -24,6 +24,20 @@
   bottom: 0;
 }
 
-/* 5. Position ABSOLUTE II */
+.exercice-absolute-2 .container {
+  position: relative;
+}
+
+.exercice-absolute-2 .block-red {
+  position: absolute;
+  left: 170px;
+  top: 0;
+}
+
+.exercice-absolute-2 .block-blue {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
 
 /* 6. FIGURE / FIGCAPTION */
