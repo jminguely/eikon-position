@@ -15,6 +15,7 @@
 .exercice-relative-2 .block-blue {
   position: relative;
   right: 20px;
+  top: -20px;
 
 }
 
