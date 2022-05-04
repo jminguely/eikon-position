@@ -4,7 +4,14 @@
 }
 
 /* 2. Position RELATIVE */
+.exercice-relative .container {
+  position: static;
+}
 
+.exercice-relative .container .block-blue {
+  position: relative;
+  left: 20px;
+}
 /* 3. Position RELATIVE II */
 
 /* 4. Position ABSOLUTE */
