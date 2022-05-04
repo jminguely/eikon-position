@@ -3,7 +3,10 @@
   position: static;
 }
 /* 2. Position RELATIVE */
-
+.exercice-relative .container .block-blue {
+  position: relative;
+  left: 20px;
+}
 /* 3. Position RELATIVE II */
 
 /* 4. Position ABSOLUTE */
@@ -11,3 +14,6 @@
 /* 5. Position ABSOLUTE II */
 
 /* 6. FIGURE / FIGCAPTION */
+
+
+/* j'ai codé  */
