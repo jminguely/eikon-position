@@ -40,6 +40,15 @@ position: relative;
   right: 50%;
 }
 
-
-
 /* 6. FIGURE / FIGCAPTION */
+figure {
+  position:relative;
+}
+figure figcaption {
+  position:absolute;
+  font-size: 10px;
+  padding: 10px;
+  bottom:0;
+  left:0;
+  background:#ffffff87;
+}
