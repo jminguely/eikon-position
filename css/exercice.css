@@ -1,5 +1,7 @@
 /* 1. Position STATIC */
-
+.container {
+position:static
+}
 /* 2. Position RELATIVE */
 
 /* 3. Position RELATIVE II */
