@@ -55,3 +55,11 @@
   bottom: 152px;
 }
 /* 6. FIGURE / FIGCAPTION */
+.coontainer .figure {
+  position: relative;
+}
+
+.container .figcaption {
+  background: #ffffffff;
+  font-size: 12px;
+}
