@@ -40,3 +40,18 @@
   right: 50%;
 }
 /* 6. FIGURE / FIGCAPTION */
+.exercice-figure .container {
+  position: relative;
+}
+
+.exercice-figure figure {
+  position: relative;
+}
+
+.exercice-figure figcaption {
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 50%;
+  padding: 10px 10px;
+  position: absolute;
+  bottom: 0;
+}
