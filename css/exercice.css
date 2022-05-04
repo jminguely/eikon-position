@@ -41,6 +41,14 @@
 }
 
 /* 6. FIGURE / FIGCAPTION */
+.exercice-figure figure {
+  position: relative;
+}
 
-
-/* j'ai codé  */
+.exercice-figure figcaption {
+  background-color: #ffffff2d;
+  font-size:12px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
