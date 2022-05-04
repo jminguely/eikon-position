@@ -45,3 +45,14 @@
   top: 0;
 }
 /* 6. FIGURE / FIGCAPTION */
+.exercice-figure figure {
+  position: relative;
+}
+
+.exercice-figure figure figcaption {
+  position: absolute;
+  bottom: 0;
+  background: #ffffffaa;
+  font-size: 15px;
+  padding: 10px;
+}
