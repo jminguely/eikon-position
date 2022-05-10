@@ -50,3 +50,14 @@
 }
 
 /* 6. FIGURE / FIGCAPTION */
+.exercice-figure figure {
+  position: relative;
+}
+
+.exercice-figure figure figcaption {
+  position: absolute;
+  bottom: 5px;
+  background: rgba(217, 214, 214, 0.599);
+  font-size: 13px;
+  padding: 10px;
+}
