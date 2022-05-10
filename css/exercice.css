@@ -10,6 +10,11 @@
 }
 
 /* 3. Position RELATIVE II */
+.exercice-relative-2 .block-blue {
+  position: relative;
+  left: -20px;
+  top: -20px;
+}
 
 /* 4. Position ABSOLUTE */
 
